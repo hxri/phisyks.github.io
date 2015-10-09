@@ -3,4 +3,9 @@ paginate: 4
 
 gems:
  - jekyll-sitemap
+<<<<<<< HEAD
  - github-pages
+=======
+
+permalink: pretty
+>>>>>>> origin/master
