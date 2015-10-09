@@ -17,6 +17,10 @@ Jekyll is so easy to use you can create a Blog lighting fast. Jekyll is so easy 
 
 Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
 
+<a href="#">
+ <img class="img-responsive" src="img/post-sample-image.jpg" alt="">
+</a>
+
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
 > as possible. The idea is that a
