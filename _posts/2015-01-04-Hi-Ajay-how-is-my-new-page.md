@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Creating Jekyll Blog with Ajinkya"
-description: "Creating CMS blog with Ruby's gem Jekyll and its gona take the world."
-author: "Ajinkya"
+title: "Hi Ajay how is my new page"
+description: "Hi Ajay how is my new page"
+author: "Phisyks"
 coverImg: "post-bg.jpg"
 
 ---
 
-#Creating Jekyll Blog with Ajinkya
+#Hi Ajay how is my new page
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
@@ -15,7 +15,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - See HTML in the right
   - Magic
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site] [1]:
+Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  
 
 > The overriding design goal for Markdown's
 > formatting syntax is to make it as readable
