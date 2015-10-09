@@ -6,6 +6,7 @@ author: "Phisyks"
 coverImg: "post-bg.jpg"
 
 ---
+#Basics of Circular Motion#
 
 What makes something move in a circular path?
 
