@@ -13,6 +13,5 @@ This time we have a website where you can find some cool simulations and interac
 
 Stay tuned and like our page and stay updated.
 
-Visit the wordpress blog at: 
+Visit the wordpress blog at: [phisyks wordpress blog](https://www.phisyks.wordpress.com)
 
-[phisyks wordpress blog](https://www.phisyks.wordpress.com)
