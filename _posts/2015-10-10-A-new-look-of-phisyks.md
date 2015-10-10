@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An website dedicated to physics by phisyks"
+title: "An website dedicated to physics"
 description: "A new look of phisyks"
 author: "Phisyks"
 coverImg: "post-bg.jpg"
