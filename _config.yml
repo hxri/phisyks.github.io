@@ -6,3 +6,6 @@ gems:
 
 permalink: pretty
 
+name:         Your Blog's Name
+description:  A description for your blog
+url:          http://phisyks.github.io
