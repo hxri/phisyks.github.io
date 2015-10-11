@@ -58,10 +58,9 @@ A normal pendulum has 1 degree of freedom. That is, the motion of that object ca
 
 <strong>Below is a simulation of the chaotic motion of double pendulum</strong>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-_q1u0Hbhg" frameborder="0" allowfullscreen></iframe>
-
 {% include image.html url="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu7.png" description="" %}
 
 <span style="font-family: Arial; font-size: 10pt;"><span style="color: #252525; background-color: white;"><strong><em>The motion of a Double pendulum is shown in the animation below</em></strong></span><span style="background-color: white;">
 </span></span>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-_q1u0Hbhg" frameborder="0" allowfullscreen></iframe>
