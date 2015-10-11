@@ -33,7 +33,7 @@ A normal pendulum has 1 degree of freedom. That is, the motion of that object ca
 <img src="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu3.png" alt="" /><span style="color: #252525; font-family: Arial; font-size: 10pt; background-color: white;">
 </span>
 
-[youtube https://www.youtube.com/watch?v=ExYMfEsbYts&amp;w=560&amp;h=315]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ExYMfEsbYts" frameborder="0" allowfullscreen></iframe>
 
 <span style="color: #252525; font-family: Arial; font-size: 24pt; background-color: white;"><strong>Double pendulum
 </strong></span>
