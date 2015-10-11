@@ -12,11 +12,10 @@ coverImg: "post-bg.jpg"
 A normal pendulum has 1 degree of freedom. That is, the motion of that object can be represented by just <strong>1 variable (ϴ).
 </strong>
 
-<img src="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu1.png" alt="" /><strong>
-</strong>
+{% include image.html url="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu1.png" description="" %}
 
-<strong>Here the joint will help the arm of the pendulum to move to and fro.
-</strong>
+
+<strong>Here the joint will help the arm of the pendulum to move to and fro.</strong>
 
 <span style="font-family: Arial; font-size: 10pt;"><span style="color: #252525; background-color: white;">The time for one complete cycle, an upswing and a downswing, is called the </span><span style="background-color: white;"><strong>period<span style="color: #252525;">. </span></strong><span style="color: #252525;">The period depends on the <strong>length (L)</strong> of the pendulum.
 </span></span></span>
@@ -24,14 +23,15 @@ A normal pendulum has 1 degree of freedom. That is, the motion of that object ca
 <span style="color: #252525; font-family: Arial; font-size: 10pt; background-color: white;">The <span style="color: #00b050;"><strong>Time period </strong><span style="color: #252525;">of the pendulum is given by,
 </span></span></span>
 
-<img src="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu2.png" alt="" /><span style="color: #252525; font-family: Arial; font-size: 10pt; background-color: white;">
-</span>
+{% include image.html url="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu2.png" description="" %}
+
 
 <span style="color: #252525; font-family: Arial; font-size: 10pt; background-color: white;">Where <strong>g</strong> is the acceleration due to gravity and <strong>L</strong> is the length of the pendulum.</span><span style="font-family: Arial; font-size: 10pt; background-color: white;"><strong>Below is a table showing the values of time and angle and the graph shows the relation between both.
 </strong></span>
 
-<img src="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu3.png" alt="" /><span style="color: #252525; font-family: Arial; font-size: 10pt; background-color: white;">
-</span>
+
+{% include image.html url="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu3.png" description="" %}
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ExYMfEsbYts" frameborder="0" allowfullscreen></iframe>
 
@@ -44,22 +44,23 @@ A normal pendulum has 1 degree of freedom. That is, the motion of that object ca
 <span style="font-family: Arial; font-size: 10pt; background-color: white;">A chaotic motion is a type of motion that cannot be predicted mathematically by any means. It produces a different set of results or path of motion each time the motion occurs
 </span>
 
-<img src="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu4.png" alt="" /><span style="font-family: Arial; font-size: 10pt; background-color: white;">
-</span>
+{% include image.html url="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu4.png" description="" %}
+
 
 <span style="font-family: Arial; font-size: 10pt; background-color: white;">Here we can see the two joints that make both the arms to move freely. The motion of Double pendulum is pretty complex and it can be described by a set of differential equations, which is given below
 </span>
 
-<img src="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu5.png" alt="" /><span style="font-family: Arial; font-size: 10pt; background-color: white;">
-</span>
+{% include image.html url="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu5.png" description="" %}
 
-<img src="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu6.png" alt="" /><span style="font-family: Arial; font-size: 10pt; background-color: white;">
-</span>
+{% include image.html url="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu6.png" description="" %}
 
-<span style="font-family: Arial; font-size: 10pt; background-color: white;">Where ϴ<sub>1 </sub>and ϴ<sub>2 </sub>are the angles at joint 1 and joint 2. </span><strong>Below is a simulation of the chaotic motion of double pendulum</strong>
+<span style="font-family: Arial; font-size: 10pt; background-color: white;">Where ϴ<sub>1 </sub>and ϴ<sub>2 </sub>are the angles at joint 1 and joint 2. </span>
 
-<img src="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu7.png" alt="" /><span style="font-family: Arial; font-size: 10pt; background-color: white;">
-</span>
+<strong>Below is a simulation of the chaotic motion of double pendulum</strong>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-_q1u0Hbhg" frameborder="0" allowfullscreen></iframe>
+
+{% include image.html url="http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu7.png" description="" %}
 
 <span style="font-family: Arial; font-size: 10pt;"><span style="color: #252525; background-color: white;"><strong><em>The motion of a Double pendulum is shown in the animation below</em></strong></span><span style="background-color: white;">
 </span></span>
