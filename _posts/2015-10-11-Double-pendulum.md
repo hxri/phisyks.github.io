@@ -64,3 +64,5 @@ A normal pendulum has 1 degree of freedom. That is, the motion of that object ca
 </span></span>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-_q1u0Hbhg" frameborder="0" allowfullscreen></iframe>
+
+{% include video.html url="https://www.youtube.com/embed/m-_q1u0Hbhg" %}
