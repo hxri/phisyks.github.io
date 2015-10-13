@@ -3,10 +3,30 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 <head>
     <link rel="canonical" href="{{page.url | prepend: site.url}}" />
+    <!-- for Google -->
+    <meta name="description" content="{{page.description}}" />
+    <meta name="keywords" content="physics" />
+
+    <meta name="author" content="phisyks" />
+    <meta name="copyright" content="" />
+    <meta name="application-name" content="phisyks" />
+    <!-- for Facebook -->   
     <meta property="og:title" content="{{page.title}}" />
     <meta property="og:image" content="https://lh3.googleusercontent.com/-yDbKtG6EoJI/AAAAAAAAAAI/AAAAAAAAACk/XhPLrTRYWI4/s120-c/photo.jpg" />
     <meta property="og:url" content="http://phisyks.github.io" />
     <meta property="og:description" content="{{page.description}}" />
+    <!-- for Twitter -->          
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@phisyks" />
+    <meta name="twitter:title" content="{{page.title}}" />
+    <meta name="twitter:description" content="{{page.description}}" />
+    <meta name="twitter:image" content="https://lh3.googleusercontent.com/-yDbKtG6EoJI/AAAAAAAAAAI/AAAAAAAAACk/XhPLrTRYWI4/s120-c/photo.jpg" />
+
+    <meta name="twitter:card" content="" />
+    <meta name="twitter:title" content="{{page.title}}" />
+    <meta name="twitter:description" content="{{page.description}}" />
+    <meta name="twitter:image" content="https://lh3.googleusercontent.com/-yDbKtG6EoJI/AAAAAAAAAAI/AAAAAAAAACk/XhPLrTRYWI4/s120-c/photo.jpg" />
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
