@@ -4,6 +4,7 @@ paginate: 4
 gems:
  - jekyll-sitemap
 
+
 permalink: pretty
 
 name:         Your Blog's Name

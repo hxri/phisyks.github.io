@@ -18,6 +18,6 @@ Let’s try to understand what actually does this implies.
 Consider a body of mass (m) moving along a plane as shown in the diagram with a velocity (v).
 
 
-{% include image.html url="https://phisyks.files.wordpress.com/2015/08/081115_1239_workenergyt1.png" description="octocat" %} 
+{% include image.html url="https://app.box.com/s/wat66i7f7osx27hq7yfstz4s1ex8dnmd" description="octocat" %} 
 
 Now as the body is in motion it should have some Kinetic energy given by **½mv<sup>2</sup>**
