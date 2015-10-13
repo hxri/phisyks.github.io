@@ -42,24 +42,6 @@
     <!-- Navigation -->
     {% include nav.html %}
 
-    <script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '880551338658585',
-      xfbml      : true,
-      version    : 'v2.5'
-    });
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-</script>
-
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
     <header class="intro-header" style="background-image: url('{{ site.url }}/img/{{page.coverImg}}')">
@@ -69,7 +51,7 @@
                 
                 
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    
+                    <img src="https://lh3.googleusercontent.com/-yDbKtG6EoJI/AAAAAAAAAAI/AAAAAAAAACk/XhPLrTRYWI4/s120-c/photo.jpg" height="230" width="80">
                     <div class="site-heading">
                         <h1>{{page.title}}</h1>
                         <hr class="small">
