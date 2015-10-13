@@ -8,8 +8,6 @@ coverImg: "post-bg.jpg"
 ---
 #Basics of Circular Motion#
 
-<div class="fb-like" data-href="http://phisyks.github.io/" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
-
 What makes something move in a circular path?
 
 _When an object is in circular motion its path is confined to a circle of fixed radius. Let us try to understand the basic laws that govern the motion of such an object._
