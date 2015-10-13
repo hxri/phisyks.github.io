@@ -7,7 +7,8 @@ coverImg: "post-bg.jpg"
 
 ---
 #Double pendulum - Chaotic motion#
-<div class="fb-like" data-href="http://phisyks.github.io/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+<div class="fb-like" data-href="http://phisyks.github.io/" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
 
 A normal pendulum has 1 degree of freedom. That is, the motion of that object can be represented by just <strong>1 variable (ϴ).
 </strong>

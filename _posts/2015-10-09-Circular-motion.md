@@ -7,7 +7,8 @@ coverImg: "post-bg.jpg"
 
 ---
 #Basics of Circular Motion#
-<div class="fb-like" data-href="http://phisyks.github.io/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+
+<div class="fb-like" data-href="http://phisyks.github.io/" data-layout="button" data-action="like" data-show-faces="true" data-share="true"></div>
 
 What makes something move in a circular path?
 
