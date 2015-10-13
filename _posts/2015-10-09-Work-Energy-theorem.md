@@ -8,6 +8,7 @@ coverImg: "post-bg.jpg"
 ---
 
 #Work Energy theorem#
+<div class="fb-like" data-href="http://phisyks.github.io/" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
 ***
 Work-Energy theorem is a very important concept of physics which describes the relation between energy and work done by a body.
