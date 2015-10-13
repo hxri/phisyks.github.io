@@ -9,6 +9,8 @@ coverImg: "post-bg.jpg"
 
 #A new website by phisyks#
 
+{% include tweet.html %}
+
 This time we have a website where you can find some cool simulations and interactive demos on physics.
 
 Stay tuned and like our page and stay updated.

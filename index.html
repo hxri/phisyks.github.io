@@ -12,9 +12,7 @@ coverImg: "home-bg.jpg"
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 
             <h1 style="color:crimson"># Check out our latest articles</h1>
-            <a href="https://twitter.com/share" class="twitter-share-button" data-via="phisyks" data-size="large" data-related="phisyks" data-hashtags="phisyks">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
+            
                 {% for news in paginator.posts %}
                     <div class="post-preview">
                         <a href="{{ news.url }}">

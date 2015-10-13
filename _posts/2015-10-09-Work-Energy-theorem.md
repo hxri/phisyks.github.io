@@ -9,6 +9,8 @@ coverImg: "post-bg.jpg"
 
 #Work Energy theorem#
 
+{% include tweet.html %}
+
 ***
 Work-Energy theorem is a very important concept of physics which describes the relation between energy and work done by a body.
 ***
