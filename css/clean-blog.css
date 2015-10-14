@@ -422,12 +422,12 @@ body {
 }
 
 ul.share-buttons{
+  cursor: pointer;
   list-style: none;
   padding: 0;
-  cursor: pointer;
 }
 
 ul.share-buttons li{
-  display: inline;
   cursor: pointer;
+  display: inline;
 }
