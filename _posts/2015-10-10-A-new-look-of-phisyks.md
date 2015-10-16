@@ -4,7 +4,7 @@ title: "A website dedicated to physics"
 description: "A new look of phisyks"
 author: "Phisyks"
 coverImg: "post-bg.jpg"
-
+image: ""
 ---
 
 #A new website by phisyks#

@@ -4,7 +4,7 @@ title: "Circular Motion"
 description: "A brief discussion on Circular Motion"
 author: "Phisyks"
 coverImg: "post-bg.jpg"
-
+image: "http://phisyks.files.wordpress.com/2015/09/092515_1038_circularmot2.png"
 ---
 #Basics of Circular Motion#
 

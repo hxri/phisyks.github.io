@@ -4,7 +4,7 @@ title: "Work Energy theorem"
 description: "A brief discussion on Work Energy theorem"
 author: "Phisyks"
 coverImg: "post-bg.jpg"
-
+image: "https://phisyks.files.wordpress.com/2015/08/081115_1239_workenergyt1.png"
 ---
 
 #Work Energy theorem#

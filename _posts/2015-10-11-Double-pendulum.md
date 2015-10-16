@@ -4,7 +4,7 @@ title: "Double pendulum"
 description: "The chaotic motion of a double pendulum"
 author: "Phisyks"
 coverImg: "post-bg.jpg"
-
+image: "http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu4.png"
 ---
 #Double pendulum - Chaotic motion#
 
