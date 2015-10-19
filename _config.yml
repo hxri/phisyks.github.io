@@ -5,8 +5,8 @@ gems:
  - jekyll-sitemap
 
 
-permalink: pretty
+permalink: /:categories/:title/
 
-name:         Your Blog's Name
-description:  A description for your blog
+name:         p h i s y k s
+description:  A blog by "phisyks" on physics.
 url:          http://phisyks.github.io
