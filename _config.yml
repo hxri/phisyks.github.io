@@ -5,6 +5,7 @@ gems:
  - jekyll-sitemap
 
 
+permalink: /:category/:title
 
 name:         p h i s y k s
 description:  A blog by "phisyks" on physics.
