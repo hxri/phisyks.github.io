@@ -6,6 +6,7 @@ author: "Phisyks"
 coverImg: "post-bg.jpg"
 image: "http://phisyks.files.wordpress.com/2015/09/092515_1038_circularmot2.png"
 summary: "When an object is in circular motion its path is confined to a circle of fixed radius. Let us try to understand the basic laws that govern the motion of such an object."
+category: Basic-physics
 ---
 #Basics of Circular Motion#
 

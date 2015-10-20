@@ -6,6 +6,7 @@ author: "Phisyks"
 coverImg: "post-bg.jpg"
 image: ""
 summary: "This time we have a website where you can find some cool simulations and interactive demos on physics."
+category: Basic-physics
 ---
 
 #A new website by phisyks#
