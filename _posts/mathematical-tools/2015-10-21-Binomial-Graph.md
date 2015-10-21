@@ -6,7 +6,7 @@ author: "Phisyks"
 coverImg: "post-bg.jpg"
 image: ""
 summary: "Binomial Expansion Demonstration"
-category: mathematical-tools 
+category: basic-physics 
 ---
 
 #A simple graph of binomial#
