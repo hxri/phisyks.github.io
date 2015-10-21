@@ -562,3 +562,7 @@ body {
 .soc-linkedin:before {
     content:'j';
 }
+
+.responsive-width {
+    font-size: 3vw;
+}
