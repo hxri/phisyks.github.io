@@ -566,3 +566,8 @@ body {
 .responsive-width {
     font-size: 3vw;
 }
+
+.btn-responsive {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
