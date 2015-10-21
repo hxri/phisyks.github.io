@@ -15,7 +15,7 @@ category: basic-physics
 <script type="text/javascript">
 var cdf = new cdfplugin();
 cdf.setDefaultContent('<a href="http://www.wolfram.com/cdf-player/"><img  src="Binomial graph.png"></a>');
-cdf.embed('/Demos/Binomial graph.cdf', 364, 233);
+cdf.embed('Binomial graph.cdf', 364, 233);
 </script>
 
 
