@@ -34,5 +34,5 @@ category: classical-physics
  </p><p><span style="color:red;font-size:16pt;"><strong>Present day theories and discoveries:
 </strong></span></p><p><span style="color:black;">After many years of research it was found that general relativity is inconsistent in terms of quantum mechanics. Hence a new variety of theories emerged which includes quantum gravity and many other. However Still gravity is not completely understood and it remains a mystery. 
 </span></p><p>
- </p><p><span style="color:black;">Keep visiting my blog and find more on gravity at <a href="http://phisyks.github.io/classical-physics.html">http://phisyks.github.io/classical-physics</a>
+ <span style="color:black;">Keep visiting my blog and find more on gravity at <a href="http://phisyks.github.io/classical-physics.html">http://phisyks.github.io/classical-physics</a>
 		</span>
