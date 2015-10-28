@@ -1,0 +1,44 @@
+---
+layout: default
+title: "String theory"
+
+description: "The world of strings"
+coverImg: "string-bg.jpg"
+
+order: 2
+---
+<div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+            <blockquote>
+                <h2>About this page:</h2>
+                    <ul>
+                        <p>This page is dedicated to string theory. Here you can find many interesting articles on the latest advancements in string theory.</p>
+                        <p>Also yuo can find a series of articles explaing string theory, staring from the basics to the advanced level including the mathematical detailsand some cool simulations on it, hence making string theory easy to understand.</p>
+                        <p>Also ii will be providing links to other resources for learning string theory the easy way.</p>
+                    </ul>
+            </blockquote>
+
+            <h1 style="color:crimson"># Articles on String theory</h1>
+            
+                {% for news in site.categories.string-theory %}
+                    <div class="post-preview">
+                        <a href="{{ news.url }}">
+                            <h2 class="post-title">
+                                {{ news.title }}
+                            </h2>
+                            <h3 class="post-subtitle">
+                                {{ news.description }}
+                            </h3>
+                        </a>
+                        <p class="post-meta">Posted by <a href="#">{{ news.author }}</a> on {{ news.date | date_to_string }}</p>
+                    </div>
+                    <hr>
+                {% endfor %}
+                
+               </div>
+        </div>
+    </div>
+
+    <hr>
