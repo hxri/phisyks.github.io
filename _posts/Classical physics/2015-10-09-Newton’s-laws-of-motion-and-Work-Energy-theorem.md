@@ -18,13 +18,16 @@ catname: Classical Physics
  </p><p><span style="font-size:22pt;"><strong>Law 1 – "A body continues to be in its state of rest or motion, unless or until it is compelled by an external force".
 </strong></span></p><p><span style="font-size:14pt;">What it actually means is that a body that is in rest or in motion will never change its state of motion (rest or in motion), until or unless an external force is applied.
 </span></p><p><span style="font-size:14pt;">
-			<img src="http://phisyks.files.wordpress.com/2015/08/081015_1709_newtonslaws1.png" alt="" />
+			
+			{% include image.html url="http://phisyks.files.wordpress.com/2015/08/081015_1709_newtonslaws1.png" description="" %}
+
 		</span></p><p><span style="font-size:14pt;"> This force (external) should be not from the system itself. It should be strictly from outside the system.
 </span></p><p style="margin-left:36pt;">
  </p><p style="margin-left:36pt;">
  </p><p><span style="font-size:22pt;"><strong>Law 2 – "The Acceleration on a body depends upon 2 factors: The net force acting on the body and the mass of the body" 
 </strong></span></p><p><span style="font-size:14pt;">This means that the net force, mass and acceleration are dependent on each other for a body in motion by the given equation 
-</span></p><p><img src="http://phisyks.files.wordpress.com/2015/08/081015_1709_newtonslaws2.png" alt="" /><span style="font-size:14pt;">
+</span></p><p>{% include image.html url="http://phisyks.files.wordpress.com/2015/08/081015_1709_newtonslaws2.png" description="" %}<span style="font-size:14pt;">
+
 		</span></p><p><span style="font-size:14pt;">(Where m=mass of body, a= acceleration and F=net force)    
 </span></p><p>
  </p><p>
