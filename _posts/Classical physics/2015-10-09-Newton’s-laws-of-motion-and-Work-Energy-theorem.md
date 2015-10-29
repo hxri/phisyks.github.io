@@ -33,4 +33,4 @@ catname: Classical Physics
  </p><p>
  </p><p><span style="font-size:22pt;"><strong>Law 3 – "Every action has an equal and opposite reaction"
 </strong></span></p><p><span style="font-size:14pt;">One of the most famous quotes that unknowingly dictates a very important law in physics.        
-</span></p><p><img src="http://phisyks.files.wordpress.com/2015/08/081015_1709_newtonslaws3.png" alt="" /></p>
+</span></p><p>{% include image.html url="http://phisyks.files.wordpress.com/2015/08/081015_1709_newtonslaws3.png" description="" %}</p>
