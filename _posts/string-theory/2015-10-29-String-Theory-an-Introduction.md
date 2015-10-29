@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction: The world of Strings"
+title: "An Introduction to String theory: The world of Strings"
 description: "A Brief introduction to string theory"
 author: "Phisyks"
 coverImg: "post-bg.jpg"
