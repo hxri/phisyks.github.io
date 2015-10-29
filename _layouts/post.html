@@ -5,7 +5,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                    
+                    <p></p>
+                    <ul class="breadcrumb">
+    <li><a href="{{site.url}}">Home</a></li>
+    <li><a href="{{site.url}}/{{site.categories}}">{{site.categories}}</a></li>
+    <li class="active">{{page.title}}</li>
+</ul>
                     {{ content }}
                     <p></p>
                     
@@ -23,6 +28,15 @@
     <li><a class="soc-linkedin soc-icon-last" href="http://www.linkedin.com/shareArticle?url={{page.url}}&title={{page.title}}"></a></li>
 </ul>
 
+                    <p></p>
+                    <p></p>
+                    <nav>
+  <ul class="pager">
+    <li class="previous"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
+    <li class="next"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+  </ul>
+</nav>
+                    <p></p>
                     <p></p>
                     <hr style="background:#CC033C; border:0; height:7px" />
                     <p></p>
