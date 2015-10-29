@@ -12,9 +12,10 @@ catname: String Theory
 
 #Introduction: The world of Strings#
 
--String theory is a model of fundemental physics where the fundemental 
--building blocks are not pont like particles but one dimensional
--objects called strings.
+>String theory is a model of fundemental physics 
+>where the fundemental building blocks are not
+>pont like particles but one dimensional
+>objects called strings.
 
 
 String theory tries to explain the fundamental laws of nature in an entirely different way. It includes one dimensional string like objects which does not exist in usual 4-dimensions (3-space and 1-time) but in ten, eleven or even twenty-six spatial dimensions.
