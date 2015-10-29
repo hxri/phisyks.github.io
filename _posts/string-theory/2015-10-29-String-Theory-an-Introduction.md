@@ -22,9 +22,9 @@ String theory tries to explain the fundamental laws of nature in an entirely dif
 
 The size of these particles are almost a plank length across, which is about 10<sup>-35</sup> meters. Just like the string of a violin, these elementary units called string can vibrate in a specific manner to give rise to different particles like quarks, baryons etc. which further give rise to neutrons and protons. The vibrations of a string are confined to only specific resonant frequencies. Further strings are of two types, a **closed string** (**A**) and an **open string** (**B**) as shown below.
 
-{% include image.html url="./media/image1.jpeg" %}
+{% include image.html url="https://drive.google.com/uc?id=0BxnuEY6ZhVl3NExCcUxBRzNVY0E" %}
 
-***Particle interactions:***
+##Particle interactions:##
 
 So far we know that we do get our usual particles from the vibrations of the strings. But how and why do they interact with each other? For instance an electron and proton interact with each other with electrostatic force. How can we understand this with strings?
 
