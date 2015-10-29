@@ -8,7 +8,7 @@
                     <p></p>
                     <ul class="breadcrumb">
     <li><a href="{{site.url}}">Home</a></li>
-    <li><a href="{{site.url}}/{{page.categories}}">{{category}}</a></li>
+    <li><a href="{{site.url}}/{{page.categories}}">{{site.category}}</a></li>
     <li class="active">{{page.title}}</li>
 </ul>
                     {{ content }}
@@ -31,7 +31,7 @@
                     <p></p>
                     <p></p>
                     <nav>
-                    
+
 <ul class="pager">
     {% if paginator.previous_page %}
         <li class="previous">
