@@ -4,7 +4,7 @@ title: "Introduction: The world of Strings"
 description: "A Brief introduction to string theory"
 author: "Phisyks"
 coverImg: "post-bg.jpg"
-image: "./media/image1.jpeg"
+image: "https://drive.google.com/uc?id=0BxnuEY6ZhVl3NExCcUxBRzNVY0E"
 summary: "String theory tries to explain the fundamental laws of nature in an entirely different way. "
 category: string-theory
 catname: String Theory
