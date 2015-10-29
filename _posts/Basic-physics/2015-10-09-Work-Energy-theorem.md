@@ -7,6 +7,7 @@ coverImg: "post-bg.jpg"
 image: "https://phisyks.files.wordpress.com/2015/08/081115_1239_workenergyt1.png"
 summary: "Work-Energy theorem is a very important concept of physics which describes the relation between energy and work done by a body."
 category: basic-physics
+catname: Basic Physics
 ---
 
 #Work Energy theorem#

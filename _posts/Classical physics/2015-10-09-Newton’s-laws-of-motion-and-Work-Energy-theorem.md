@@ -7,6 +7,7 @@ coverImg: "post-bg.jpg"
 image: "http://phisyks.files.wordpress.com/2015/08/081015_1709_newtonslaws2.png"
 summary: "According to Newton's laws of motion, a body behaves in 3d space with respect to 3 basic laws. These are generally called..."
 category: classical-physics
+catname: Classical Physics
 ---
 
 #Newton’s laws of motion and Work-Energy theorem#

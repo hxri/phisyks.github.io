@@ -7,6 +7,7 @@ coverImg: "post-bg.jpg"
 image: ""
 summary: "This time we have a website where you can find some cool simulations and interactive demos on physics."
 category: basic-physics
+catname: Basic Physics
 ---
 
 #A new website by phisyks#

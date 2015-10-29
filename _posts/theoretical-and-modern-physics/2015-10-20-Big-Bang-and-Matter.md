@@ -7,6 +7,7 @@ coverImg: "post-bg.jpg"
 image: "http://phisyks.files.wordpress.com/2015/08/082315_1103_bigbangandm3.gif"
 summary: "How can a single point mass create all these huge stars, galaxies and other heavenly bodies in the universe?"
 category: theoretical-and-modern-physics
+catname: Theoretical and Modern Physics
 ---
 
 #Big Bang and Matter#

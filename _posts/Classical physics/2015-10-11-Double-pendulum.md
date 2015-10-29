@@ -7,6 +7,7 @@ coverImg: "post-bg.jpg"
 image: "http://phisyks.files.wordpress.com/2015/09/091615_0748_doublependu4.png"
 summary: "A normal pendulum has 1 degree of freedom. That is, the motion of that object can be represented by......"
 category: classical-physics
+catname: Classical Physics
 ---
 #Double pendulum - Chaotic motion#
 

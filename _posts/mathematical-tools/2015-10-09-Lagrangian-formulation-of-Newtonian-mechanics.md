@@ -7,6 +7,7 @@ coverImg: "post-bg.jpg"
 image: "http://phisyks.files.wordpress.com/2015/07/072115_1219_lagrangianf1.png"
 summary: "Newtonian mechanics describes the working of almost everything around us. But at certain times we have to use additional tools to make..."
 category: mathematical-tools
+catname: Mathematical Tools
 ---
 
 #Lagrangian formulation of Newtonian mechanics#

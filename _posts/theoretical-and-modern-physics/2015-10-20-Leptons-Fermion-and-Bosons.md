@@ -7,6 +7,7 @@ coverImg: "post-bg.jpg"
 image: "http://phisyks.files.wordpress.com/2015/08/081815_1759_leptonsferm1.png"
 summary: "Elementary particles are still unseen and we only see their properties by their behavior and results they produce during experiments. But is that all? Are these the smallest of everything in this universe?"
 category: theoretical-and-modern-physics
+catname: Theoretical and Modern Physics
 ---
 
 #Leptons, Fermions and Bosons#
