@@ -742,8 +742,11 @@ body {
 }
 .btn-group-fill-height .btn { 
   white-space: normal;
+  word-wrap: break-word;
+  font-size: 70%
 }
 
 .btn {
     height: 170px;
+    font-size: 70%
 }
