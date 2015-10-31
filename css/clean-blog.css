@@ -731,3 +731,7 @@ body {
   height: 25px !important;
   padding:2px;
 }
+
+.btn-group-fill-height .btn { 
+  white-space: normal;
+}
