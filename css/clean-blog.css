@@ -732,21 +732,3 @@ body {
   padding:2px;
 }
 
-.btn-group-fill-height .btn { 
-  white-space: normal;
-}
-
-body {
-  padding-top: 70px;
-  padding-bottom: 30px;
-}
-.btn-group-fill-height .btn { 
-  white-space: normal;
-  word-wrap: break-word;
-  font-size: 70%
-}
-
-.btn {
-    height: 170px;
-    font-size: 70%
-}
