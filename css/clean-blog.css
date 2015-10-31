@@ -743,3 +743,7 @@ body {
 .btn-group-fill-height .btn { 
   white-space: normal;
 }
+
+.btn {
+    height: 170px;
+}
