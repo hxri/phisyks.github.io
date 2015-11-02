@@ -54,17 +54,14 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript">
-$(window).load(function() {
-    $(".loader").fadeOut("slow");
-})
-</script>
+
 </head>
 
 <body>
-<div class="loader"></div>
 
+<div id="loading">
+  <img id="loading-image" src="images/ajax-loader.gif" alt="Loading..." />
+</div>
     <!-- Navigation -->
     {% include nav.html %}
 
@@ -103,5 +100,9 @@ $(window).load(function() {
         </div>
     </header>
 
-
+<script language="javascript" type="text/javascript">
+     $(window).load(function() {
+     $('#loading').hide();
+  });
+</script>
 
