@@ -22,27 +22,18 @@
                     <p></p>
                     
                     <!-- Social Button HTML -->
-<div class="don-share" data-style="icons" data-bubbles="right">
-  <div class="don-share-total"></div>
-  <div class="don-share-facebook"></div>
-  <div class="don-share-twitter"></div>
-  <div class="don-share-reddit"></div>
-  <div class="don-share-pocket"></div>
-  <div class="don-share-google"></div>
-  <div class="don-share-pinterest"></div>
-  <div class="don-share-tumblr"></div>
-  <div class="don-share-buffer"></div>
-  <div class="don-share-linkedin"></div>
-</div>
-<script type="text/javascript"> 
-  (function() {
-    var dr = document.createElement('script');
-    dr.type = 'text/javascript'; dr.async = true;
-    dr.src = '//share.donreach.com/buttons.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dr);
-  })();
-</script>
-
+<ul class="soc">
+    <li><a class="soc-twitter" href="https://twitter.com/share?url={{site.url}}&text={{page.title}}&via=phisyks&hashtags=phisyks"></a></li>
+    <li><a class="soc-google" href="https://plus.google.com/share?url={{page.url}}"></a></li>
+    <li><a class="soc-facebook" href="http://www.facebook.com/sharer.php?u={{page.url}}"></a></li>
+    <li><a class="soc-pinterest" href="https://pinterest.com/pin/create/bookmarklet/?media={{page.image}}&url={{page.url}}&is_video={is_video}&description={title}"></a></li>
+    <li><a class="soc-reddit" href="http://reddit.com/submit?url={{page.url}}&title={{page.title}}"></a></li>
+    <li><a class="soc-rss" href="http://phisyks.github.io/rss"></a></li>
+    <li><a class="soc-stumbleupon" href="http://www.stumbleupon.com/submit?url={{page.url}}&title={{page.title}}"></a></li>
+    <li><a class="soc-wordpress" href="https://phisyks.wordpress.com"></a></li>
+    <li><a class="soc-delicious" href="https://delicious.com/save?v=5&provider=phisyks&noui&jump=close&url={{page.url}}&title={{page.title}}"></a></li>
+    <li><a class="soc-linkedin soc-icon-last" href="http://www.linkedin.com/shareArticle?url={{page.url}}&title={{page.title}}"></a></li>
+</ul>
                     <p></p>
                     <p></p>
                     <nav>
