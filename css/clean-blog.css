@@ -740,7 +740,7 @@ body {
    left: 0px;
    position: fixed;
    display: block;
-   opacity: 0.0;
+   opacity: 2.0;
    background-color: #fff;
    z-index: 99;
    text-align: center;
@@ -753,6 +753,6 @@ body {
   z-index: 100;
 }
 
-#loading {width: 100%;height: 100%;top: 0px;left: 0px;position: fixed;display: block; background-color: #FFFFFF; opacity: 0.0; z-index: 99}
+#loading {width: 100%;height: 100%;top: 0px;left: 0px;position: fixed;display: block; background-color: #FFFFFF; opacity: 2.0; z-index: 99}
 
 #loading-image {position: absolute;top: 40%;left: 45%;z-index: 100} 
