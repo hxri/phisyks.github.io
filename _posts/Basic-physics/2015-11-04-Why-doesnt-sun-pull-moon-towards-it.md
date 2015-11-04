@@ -15,8 +15,6 @@ catname: Basic Physics
 Seriously. why doesn't that happen? Well there are a few things we should know
 before knowing the answer.
 
- 
-
 Well the key things we should know is that
 
 -   Earth and Moon go around the sun together, as if they are one single body.
@@ -24,7 +22,6 @@ Well the key things we should know is that
 -   When three bodies interact due to gravitation, their motion is determined by
     position relative to what is known as the **Hill Sphere** of each.
 
- 
 
 ### Hill Roche sphere
 
@@ -35,7 +32,6 @@ pull from a more massive body. 
 
 The radius of the Hill Sphere is given by
 
- 
 {% include image.html url="https://upload.wikimedia.org/math/f/b/f/fbff608d7312cc568a2cae485792ab9f.png" description="" %}
 
 Below is an image showing the Hill sphere of earth and sun.
@@ -48,8 +44,6 @@ Here the points L1,L2,L3,L4 and L5 are so called Lagrange points of the bodies.
 >   large bodies where a small object affected only by gravity can maintain a
 >   stable position relative to the two large bodies. 
 
- 
-
 ### Now the answer to the question.
 
 In the Earth example,
@@ -61,13 +55,6 @@ The **Hill sphere for Earth** thus extends out to about **1.5 million km** (0.01
 AU). The **Moon's orbit**, at a distance of **0.384 million km from Earth**, is
 comfortably within the gravitational sphere of influence of Earth and it is
 therefore not at risk of being pulled into an independent orbit around the Sun.
-
-| **Body**              | **Range**                   |
-|-----------------------|-----------------------------|
-| Hill sphere for Earth | 1.5 million km              |
-| Moon's orbit          | 0.384 million km from Earth |
-
- 
 
 ### References:
 
