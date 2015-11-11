@@ -1,8 +1,7 @@
 markdown: redcarpet
 paginate: 4
 
-gems:
- - jekyll-sitemap
+
 
 
 permalink: /:categories/:title
