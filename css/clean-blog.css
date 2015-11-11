@@ -766,11 +766,6 @@ body {
     word-wrap: break-word;
 }
 
-body {
-    background-color: #444;
-    margin: 0;
-}
-
 #wrapper {
      width: 1005px;
      margin: 0 auto;
