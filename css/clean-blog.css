@@ -832,3 +832,33 @@ body {
   .col { margin: 1% 0 1% 0%;}
   .span_3_of_3, .span_2_of_3, .span_1_of_3 { width: 100%; }
 }
+
+.blog-post {
+  padding: 10px;  
+}
+
+.blog-post .thumbnail {
+  float: left;
+  padding: 20px;
+}
+
+.blog-post .description {
+  float: left;
+  padding: 20px;
+  font-size: 16px;
+}
+
+/* Reusable classes for padding */
+.p1 { padding: 10px; }
+.p2 { padding: 20px; }
+.p3 { padding: 30px; }
+
+/* Reusable float utilities */
+.left { float: left; }
+.right { float: right; }
+
+/* Reusable font utilities */
+.h1 { font-size: 28px; }
+.h2 { font-size: 24px; }
+.h3 { font-size: 20px; }
+.h4 { font-size: 16px; }
