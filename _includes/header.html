@@ -6,7 +6,7 @@
     <!-- for Google -->
     <meta name="description" content="{{page.description}}" />
     <meta name="keywords" content="physics" />
-
+    <link href="https://plus.google.com/113808818068973352054" rel="publisher" />
     <meta name="author" content="phisyks" />
     <meta name="copyright" content="" />
     <meta name="application-name" content="phisyks" />
@@ -61,11 +61,19 @@
     <meta http-equiv="refresh" content="5; url=http://phisyks.github.io/">
     {% endif %}
 
+   
 
 </head>
 
 <body>
-
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5&appId=995463583853603";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <!-- Navigation -->
     {% include nav.html %}
 
@@ -95,6 +103,7 @@
                         <a href="https://twitter.com/phisyks" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @phisyks</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
                         <p></p>
+                        
                         <aside class="sharing">
                         <div class="g-plusone" data-annotation="bubble" data-size="tall"></div>
                         
