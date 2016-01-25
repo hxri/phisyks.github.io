@@ -1017,29 +1017,3 @@ jQuery(document).ready(function($) {
 
 
 window.onload = function(){ document.getElementById("loading").style.display = "none" } 
-
-// external js: isotope.pkgd.js, imagesloaded.pkgd.js
-
-$(document).ready( function() {
-  // init Isotope
-  var $grid = $('.grid').isotope({
-    itemSelector: '.grid-item',
-    percentPosition: true,
-    masonry: {
-      columnWidth: '.grid-sizer'
-    }
-  });
-  // layout Isotope after each image loads
-  $grid.imagesLoaded().progress( function() {
-    $grid.isotope('layout');
-  });  
-
-});
-
-$(function(){
-  $('#container').masonry({
-    // options
-    itemSelector : '.item',
-    columnWidth : 240
-  });
-});
