@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gravitational waves and its existance"
+title: "Gravitational waves and its existence"
 description: "what are they and do they exist?"
 author: "Phisyks"
 coverImg: "post-bg.jpg"
@@ -10,7 +10,7 @@ the disturbances we make in the gravitational field around it..."
 category: theoretical-and-modern-physics
 catname: Theoretical and Modern Physics
 ---
-#Gravitational waves and its existance#
+#Gravitational waves and its existence#
 
 The idea of so called gravitational waves originated from the theory of
 **general relativity** which stated that
@@ -38,7 +38,7 @@ waves
 
 ##But there is another way of detecting gravitational waves?##
 
-We know that after the big bang the inflation occurred and if gravitational
+Scientists know that after the big bang the inflation occurred and if gravitational
 waves existed then (it should have) the we could see the effect of those waves
 on the matter at that time by observing the cosmic microwave background
 radiation from that period. Scientist say that gravitational waves should have
