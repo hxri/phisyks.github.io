@@ -23,4 +23,6 @@ String theory tries to explaing the fundemental laws of nature in an entirely di
 
 image : {% include image.html url="" %}
 
+image from G-Drive : {% include image.html url="https://drive.google.com/uc?export=view&id={ fileId }" %}
+
 video : {% include video.html url="" %}
