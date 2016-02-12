@@ -881,3 +881,15 @@ body {
     height: 100%;
 }
 
+/**
+* Grid items
+*/
+#tiles li {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+ 
+#tiles li img {
+    width: 100%;
+    height: auto;
+}
