@@ -10,7 +10,7 @@ category: basic-physics
 catname: Basic Physics
 ---
 
-#Why doesn't sun pull moon towards it?#
+#Why doesn't sun pull moon towards it?
 
 Seriously. why doesn't that happen? Well there are a few things we should know
 before knowing the answer.

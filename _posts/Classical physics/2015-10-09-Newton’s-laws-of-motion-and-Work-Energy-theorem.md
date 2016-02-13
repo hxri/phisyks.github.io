@@ -10,7 +10,7 @@ category: classical-physics
 catname: Classical Physics
 ---
 
-#Newton’s laws of motion and Work-Energy theorem#
+#Newton’s laws of motion and Work-Energy theorem
 
 <p><span style="font-size:14pt;">According to Newton's laws of motion, a body behaves in 3d space with respect to 3 basic laws. These are generally called the "Laws of motion". It is a very important concept in mechanics, specifically classical mechanics.
 </span></p><p><span style="font-size:14pt;">The three laws of motion as proposed by newton are:

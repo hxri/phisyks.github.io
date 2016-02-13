@@ -10,7 +10,7 @@ category: classical-physics
 catname: Classical Physics
 ---
 
-#Gravitational Force and Field#
+#Gravitational Force and Field
 
 <p>Gravity is one of the most easily observable force in the universe. Throw a stone upward and it comes down due to gravity. But understanding the actual cause of gravity is not that easy. In fact it's still unknown.
 </p><p>Let's see what people think about gravity- from newton to Einstein to present day theories and discoveries on gravity.

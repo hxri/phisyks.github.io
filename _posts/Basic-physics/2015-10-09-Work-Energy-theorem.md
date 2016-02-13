@@ -10,7 +10,7 @@ category: basic-physics
 catname: Basic Physics
 ---
 
-#Work Energy theorem#
+#Work Energy theorem
 
 
 ***

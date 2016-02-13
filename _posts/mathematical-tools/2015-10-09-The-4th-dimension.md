@@ -10,7 +10,7 @@ category: mathematical-tools
 catname: Mathematical Tools
 ---
 
-#The 4th dimension#
+#The 4th dimension
 
 <strong>Have you ever seen a 4 dimensional object ?</strong>
 

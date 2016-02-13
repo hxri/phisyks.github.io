@@ -10,7 +10,7 @@ category: mathematical-tools
 catname: Mathematical Tools
 ---
 
-#Lagrangian formulation of Newtonian mechanics#
+#Lagrangian formulation of Newtonian mechanics
 
 Newtonian mechanics describes the working of almost everything around us. But at certain times we have to use additional tools to make our understanding better.
 

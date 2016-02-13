@@ -10,7 +10,7 @@ category: theoretical-and-modern-physics
 catname: Theoretical and Modern Physics
 ---
 
-#Leptons, Fermions and Bosons#
+#Leptons, Fermions and Bosons
 <p><span style="font-size:14pt;">Elementary particles in an atom as we know are <strong>Electrons, Protons and Neutrons</strong>. Each have certain characteristic properties which include <strong>Mass, Charge, Spin, Energy</strong> etc.
 </span></p><p><span style="font-size:14pt;">Elementary particles are still unseen and we only see their properties by their behavior and results they produce during experiments. But is that all? Are these the smallest of everything in this universe?
 </span></p><p><span style="font-size:14pt;">Maybe not. Each of the particles are made up of even smaller set of particles called <strong>quarks. </strong>There are 6 varieties of quarks and they too have many characteristic properties. One important similarity between the quarks and those bigger elementary particles is that they obey the <strong>Pauli Exclusion Principle.

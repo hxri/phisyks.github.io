@@ -10,7 +10,7 @@ the disturbances we make in the gravitational field around it..."
 category: theoretical-and-modern-physics
 catname: Theoretical and Modern Physics
 ---
-#Gravitational waves and its existence#
+#Gravitational waves and its existence
 
 The idea of so called gravitational waves originated from the theory of
 **general relativity** which stated that
@@ -19,7 +19,7 @@ The idea of so called gravitational waves originated from the theory of
 >   actually bend or distort space-time resulting in what we know a
 >   gravitational force.
 
-##How does gravitational waves form?##
+##How does gravitational waves form?
 
 consider a charged particle in space as we disturb the position the that
 particle either by moving it constantly or making it vibrate, we get
@@ -36,7 +36,7 @@ waves
 
 {% include image.html url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Main_dwarf_collage_lg_landscape.png/800px-Main_dwarf_collage_lg_landscape.png" %}
 
-##But there is another way of detecting gravitational waves?##
+##But there is another way of detecting gravitational waves?
 
 Scientists know that after the big bang the inflation occurred and if gravitational
 waves existed then (it should have) the we could see the effect of those waves

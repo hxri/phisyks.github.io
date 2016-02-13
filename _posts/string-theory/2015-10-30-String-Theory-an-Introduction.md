@@ -10,7 +10,7 @@ category: string-theory
 catname: String Theory
 ---
 
-#Introduction: The world of Strings#
+#Introduction: The world of Strings
 
 >String theory is a model of fundemental physics 
 >where the fundemental building blocks are not
@@ -24,7 +24,7 @@ The size of these particles are almost a plank length across, which is about 10<
 
 {% include image.html url="https://drive.google.com/uc?id=0BxnuEY6ZhVl3NExCcUxBRzNVY0E" %}
 
-##Particle interactions:##
+##Particle interactions:
 
 So far we know that we do get our usual particles from the vibrations of the strings. But how and why do they interact with each other? For instance an electron and proton interact with each other with electrostatic force. How can we understand this with strings?
 
