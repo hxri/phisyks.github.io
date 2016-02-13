@@ -11,7 +11,7 @@ catname: Basic Physics
 
 ---
 
-#Doppler Effect in Sound
+# Doppler Effect in Sound
 
 {% include image.html url="https://drive.google.com/uc?export=view&id=0BzlP_NLro1cLYlRSSnVlOWJsUkU" %}
 

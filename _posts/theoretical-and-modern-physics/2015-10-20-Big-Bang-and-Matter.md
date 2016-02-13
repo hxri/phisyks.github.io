@@ -10,7 +10,7 @@ category: theoretical-and-modern-physics
 catname: Theoretical and Modern Physics
 ---
 
-#Big Bang and Matter
+# Big Bang and Matter
 
 A long time ago, exactly 13.7 billion years ago there was a point. A point that was everything then and has become everything we see now. Physicists call it the "Singularity".
 

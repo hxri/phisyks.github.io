@@ -9,7 +9,7 @@ summary: "When an object is in circular motion its path is confined to a circle 
 category: basic-physics
 catname: Basic Physics
 ---
-#Basics of Circular Motion
+# Basics of Circular Motion
 
 
 What makes something move in a circular path?
