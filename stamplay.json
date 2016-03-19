@@ -1,0 +1,10 @@
+{
+  "appId": "phisyks-slack-invites",
+  "apiKey": "68a4d2dea0a065e84e91fc3b5f4cfa12f2d821d37d6e2bbc311ad26499ed501b",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
