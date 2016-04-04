@@ -2,8 +2,6 @@ markdown: kramdown
 paginate: 4
 
 
-
-
 permalink: /:categories/:title
 
 name:         p h i s y k s
